@@ -402,6 +402,9 @@ IF SOMETHING GOES WRONG:
    gdb'ing a non-running kernel currently fails because gdb (wrongly)
    disregards the starting offset for which the kernel is compiled.
 
+
+
+
 # How to compile kernel for Redmi Note 9 Pro (joyeuse)
 ## Intro
 This source code already contains WiFi and Audio drivers that were not included in the original Xiaomi code.
